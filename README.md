@@ -7,19 +7,22 @@ The Simon says game from Among Us recreated in real life.
 &ensp;Fernando Hernandez-Borboa
 
 ## Video Demonstration
-[![Alt text](https://img.youtube.com/vi/AnLEiYtdJE4/0.jpg)](https://youtu.be/AnLEiYtdJE4)
+[![Alt text](https://img.youtube.com/vi/FVwlfHnqfag/0.jpg)](https://youtu.be/FVwlfHnqfag)
 
 ## Concept of Research
-&ensp;The concept for this was to create a slave-master system using the ESP-32 and the ESPnow library to allow two devices to communcate with eachother. This would allow information in any byte format to be passed between the devices as well as allowing two way communication as well as communication with other devices. Hypothetically this could be used with far more devices as long as they are linked via mac address and one is acting as a host for the others or they all act as a master and slave for another platform.
+&ensp;The concept for this project was to recreate the minigame from Among Us known as Simon Says. In this game you must reply to the given sequence with the identical numbers. The LED array is used to denote 1-9 and the numpad follows in the same pattern. The pattern is non-repeatable in our game as we wished for the combination to be unique. The query is denoted as a five digit array with the sequence: 
+array[0] ... response ... array[0], array[1] ... response ... array[0], array[1], array[2] ... array[0], array[1], array[2], , array[3] ... response ... array[0], array[1], array[2], , array[3], array[4] ... response ... success 
+If the array is not properly responded to with the identical array at any point then the system is thrown into the failure state and must be reset.
+The intent of this game was to create a simple game that was fun to play and fairly easy to build.
 
 ## Future Designs and Continuation
-&ensp;This concept could easily be integrated into a wearable device or many wearable devices to tell specific local data; such as body temperature, heart rate, and other bodily functions. One could also create a brilliant light suit or some sort of astetic piece for a costume that communicates light signals or auditory information from one piece to another.
+&ensp;The main continuation that would be made to this project would be recreating the UI the player interacts with. Changing the 9 digit button input into a non-digit interface with its own blank keycaps and the LED system to be identical to it so that it is more aesthetically pleasing.
 
 ## Images of Concepts
 <img src="https://github.com/jjliska/ESP32_Wireless_LED/blob/main/Media/20210201_021207.jpg" width="480" height="320">
 <img src="https://github.com/jjliska/ESP32_Wireless_LED/blob/main/Media/fushionImage.png" width="480" height="320">
 
 ## References
-[Tutorial](https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/)  
-[Documenation and Syntax](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html)
-
+keypadExample01 from Arduino IDE 
+Part_1_03_Playing_Music from Arduino in Teensy Library
+[RGB LED tutorial](https://howtomechatronics.com/tutorials/arduino/how-to-use-a-rgb-led-with-arduino/) 
