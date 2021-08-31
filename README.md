@@ -26,5 +26,5 @@ The intent of this game was to create a simple game that was fun to play and fai
 
 ## References
 keypadExample01 from Arduino IDE 
-Part_1_03_Playing_Music from Arduino in Teensy Library
+Part_1_03_Playing_Music from Arduino in Teensy Library 
 [RGB LED tutorial](https://howtomechatronics.com/tutorials/arduino/how-to-use-a-rgb-led-with-arduino/) 
