@@ -1,10 +1,10 @@
 # SimonSays
 The Simon says game from Among Us recreated in real life.
 
-## Teammates
-&ensp;Joshua Liska
-&ensp;Paysen Bramblett
-&ensp;Fernando Hernandez-Borboa
+## Teammates 
+&ensp;Joshua Liska  
+&ensp;Paysen Bramblett 
+&ensp;Fernando Hernandez-Borboa 
 
 ## Video Demonstration
 [![Alt text](https://img.youtube.com/vi/FVwlfHnqfag/0.jpg)](https://youtu.be/FVwlfHnqfag)
