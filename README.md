@@ -19,8 +19,10 @@ The intent of this game was to create a simple game that was fun to play and fai
 &ensp;The main continuation that would be made to this project would be recreating the UI the player interacts with. Changing the 9 digit button input into a non-digit interface with its own blank keycaps and the LED system to be identical to it so that it is more aesthetically pleasing.
 
 ## Images of Concepts
-<img src="https://github.com/jjliska/ESP32_Wireless_LED/blob/main/Media/20210201_021207.jpg" width="480" height="320">
-<img src="https://github.com/jjliska/ESP32_Wireless_LED/blob/main/Media/fushionImage.png" width="480" height="320">
+<img src="https://github.com/jjliska/SimonSays/blob/master/Media/Pictures/20201128_112800.jpg" width="320" height="480">
+<img src="https://github.com/jjliska/SimonSays/blob/master/Media/Pictures/20201128_112838.jpg.jpg" width="320" height="480">
+<img src="https://github.com/jjliska/SimonSays/blob/master/Media/Pictures/20201128_112850.jpg" width="320" height="480">
+<img src="https://github.com/jjliska/SimonSays/blob/master/Media/Pictures/FinishedProduct.jpg" width="320" height="480">
 
 ## References
 keypadExample01 from Arduino IDE 
