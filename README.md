@@ -29,7 +29,7 @@ The intent of this game was to create a simple game that was fun to play and fai
 <img src="https://github.com/jjliska/SimonSays/blob/master/Media/Pictures/20201128_112800.jpg" width="320" height="480">
 <img src="https://github.com/jjliska/SimonSays/blob/master/Media/Pictures/20201128_112838.jpg" width="320" height="480">
 <img src="https://github.com/jjliska/SimonSays/blob/master/Media/Pictures/20201128_112850.jpg" width="320" height="480">
-<img src="https://github.com/jjliska/SimonSays/blob/master/Media/Pictures/FinishedProduct.jpg" width="480" height="480">
+<img src="https://github.com/jjliska/SimonSays/blob/master/Media/Pictures/FinishedProduct.jpg" width="600" height="480">
 
 ## References
 keypadExample01 from Arduino IDE  
